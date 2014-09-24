@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.imie.test.TestAdvancedTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2014-09-24T10:11:28" hostname="imie-dev-debian" time="0.382">
+  <properties/>
+  <testcase name="vistoireJ1Bloquee" classname="org.imie.test.TestAdvancedTest" time="0.007"/>
+  <testcase name="gagneJ2ApresEgalite" classname="org.imie.test.TestAdvancedTest" time="0.0"/>
+  <testcase name="gagneJ1" classname="org.imie.test.TestAdvancedTest" time="0.001"/>
+  <testcase name="vistoireJ1Bloquee" classname="org.imie.test.TestAdvancedTest" time="0.0"/>
+  <testcase name="gagneJ2ApresEgalite" classname="org.imie.test.TestAdvancedTest" time="0.0"/>
+  <testcase name="gagneJ1" classname="org.imie.test.TestAdvancedTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

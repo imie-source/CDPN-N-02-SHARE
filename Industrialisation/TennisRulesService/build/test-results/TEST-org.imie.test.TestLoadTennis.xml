@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.imie.test.TestLoadTennis" tests="10" skipped="0" failures="0" errors="0" timestamp="2014-09-24T10:11:28" hostname="imie-dev-debian" time="0.072">
+  <properties/>
+  <testcase name="testUnitaireReset" classname="org.imie.test.TestLoadTennis" time="0.002"/>
+  <testcase name="testIntegrationReset" classname="org.imie.test.TestLoadTennis" time="0.012"/>
+  <testcase name="testUnitaireSaveBis" classname="org.imie.test.TestLoadTennis" time="0.002"/>
+  <testcase name="testUnitaireSave" classname="org.imie.test.TestLoadTennis" time="0.0"/>
+  <testcase name="testIntegrationSave" classname="org.imie.test.TestLoadTennis" time="0.002"/>
+  <testcase name="testUnitaireReset" classname="org.imie.test.TestLoadTennis" time="0.001"/>
+  <testcase name="testIntegrationReset" classname="org.imie.test.TestLoadTennis" time="0.001"/>
+  <testcase name="testUnitaireSaveBis" classname="org.imie.test.TestLoadTennis" time="0.0"/>
+  <testcase name="testUnitaireSave" classname="org.imie.test.TestLoadTennis" time="0.001"/>
+  <testcase name="testIntegrationSave" classname="org.imie.test.TestLoadTennis" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
