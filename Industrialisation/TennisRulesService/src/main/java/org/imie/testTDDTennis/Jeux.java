@@ -62,7 +62,7 @@ public class Jeux implements Serializable {
 		String retour = "";
 		switch (score) {
 		case 0:
-			retour = "1";
+			retour = "0";
 			break;
 		case 1:
 			retour = "15";
